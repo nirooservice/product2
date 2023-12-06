@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/product2/static/css/main.b1dec515.css",
-    "main.js": "/product2/static/js/main.46afb5a7.js",
-    "static/js/787.911c594c.chunk.js": "/product2/static/js/787.911c594c.chunk.js",
+    "main.css": "/product2/static/css/main.83828a18.css",
+    "main.js": "/product2/static/js/main.82c2ef24.js",
+    "static/js/787.16256e54.chunk.js": "/product2/static/js/787.16256e54.chunk.js",
     "static/media/pump-shop-image.jpg": "/product2/static/media/pump-shop-image.92b429aea4f545cfa876.jpg",
     "index.html": "/product2/index.html",
-    "main.b1dec515.css.map": "/product2/static/css/main.b1dec515.css.map",
-    "main.46afb5a7.js.map": "/product2/static/js/main.46afb5a7.js.map",
-    "787.911c594c.chunk.js.map": "/product2/static/js/787.911c594c.chunk.js.map"
+    "main.83828a18.css.map": "/product2/static/css/main.83828a18.css.map",
+    "main.82c2ef24.js.map": "/product2/static/js/main.82c2ef24.js.map",
+    "787.16256e54.chunk.js.map": "/product2/static/js/787.16256e54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1dec515.css",
-    "static/js/main.46afb5a7.js"
+    "static/css/main.83828a18.css",
+    "static/js/main.82c2ef24.js"
   ]
 }
